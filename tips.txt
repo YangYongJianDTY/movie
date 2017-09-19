@@ -1,0 +1,2 @@
+//更新数据库
+db.users.update({"_id" : ObjectId("58db3a598699402f1463290c")}, {$set: {role: 51}})
